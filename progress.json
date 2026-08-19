@@ -243,5 +243,14 @@
       "Answer for What's sum of values in west.csv on Jan 09th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787122161.104631,
+    "completed_at": 1787122165.23049,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
